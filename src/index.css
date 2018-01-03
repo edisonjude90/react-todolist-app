@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.todo-app {
+    margin: 70px auto 0px auto;
+    width: 65%;
+}
+
+.todo-app h1 {
+    text-align: center;
+}
+
+.todo-add-save-section {
+    text-align: center;
+}
+
+.todo-list-section {
+    margin: 15px auto;
+}
+
+#todo-input-box {
+    width: 250px;
+}
+
+.todo-list-item {
+    margin: 0px 0px 15px 0px;
+}
+
+.todo-list-item-sno {
+    font-weight: bold;
+    float: left;
+}
+
+.todo-list-item-content {
+    padding-left: 5px;
+    width: 266px;
+    float: left;
+}
+
+.todo-list-item-edit-option {
+    float: right;
+}
+
+.clear {
+    clear: both;
+}
